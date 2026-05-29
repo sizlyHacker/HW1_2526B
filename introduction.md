@@ -23,8 +23,9 @@ Tell us a bit about yourselves!
 	- Desirable grade in Matam:
 	- which TA's song you liked the most:
 
-	- Second student's name:
-	- Favorite singer:
-	- Favorite song:
-	- Desirable grade in Matam:
-	- which TA's song you liked the most: 
+	- Second student's name:Sizly Elazar 
+	- Favorite singer:Selena Gomez
+	- Favorite song:Who says
+	- Desirable grade in Matam:100
+	- which TA's song you liked the most:Daniel 
+
